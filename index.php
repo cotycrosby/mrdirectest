@@ -12,7 +12,7 @@
 	<!-- 	Write a PHP snippet, along with requisite CSS, that will arrange between zero and sixteen divs into a square grid with internal grid lines only.  -->
 
   <!-- Declaring the number of divs in the grid -->
-  <?php $numDivs = 14; $i = 0;?>
+  <?php $numDivs = 7; $i = 0;?>
 
 	
 	<style>

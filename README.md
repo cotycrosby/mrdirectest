@@ -13,4 +13,10 @@ I've played around with react and had a good experience with it. I have a repo o
 Without googling, I think its the position of the parent. So an element within the body will use the browser window.
 
 
-#3
+## Three
+
+## Four
+I got really close with four using the css grid and no border. To set the internal grid lines I used a background color of black on the grid container and the grid row and column gaps to 2px. 
+
+With the example being 7
+![Four Screenshot](https://raw.githubusercontent.com/cotycrosby/mrdirectest/master/images/four.PNG)
